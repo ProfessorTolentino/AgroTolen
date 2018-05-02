@@ -1,0 +1,21 @@
+body{
+  text-align: center;
+    background-color: #181d27;
+    height: 636px;
+    background-size: 394px, 100px;
+    background-image: url(http://manhattan.sensationthemes.com/images/iphone.png);
+    background-repeat: no-repeat;
+    background-position: center 40px, 20px 20px;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+::-webkit-scrollbar {
+    display: none;
+}
+.mobile-wrapper{
+  background-color: transparent;
+  width: 361px;
+}
+.wrapper-mask{
+  background-color: transparent;
+}
